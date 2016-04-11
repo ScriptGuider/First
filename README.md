@@ -1,4 +1,2 @@
 # First
-Testing
-
-First github project
+Testing first github project
